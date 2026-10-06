@@ -397,5 +397,8 @@ New limitations introduced by the migration (to be covered in the report):
       (`docs/observability.md`)
 - [x] Final evaluation: strengths, weaknesses, technical debt
       (`docs/evaluation.md`)
+       debt
+      (`docs/evaluation.md`)
+- [x] Architecture and migration document (`docs/architecture' )
 - [x] Architecture and migration document (`docs/architecture.md`)
 
